@@ -1,0 +1,4 @@
+fastapi 
+gunicorn 
+python-multipart 
+whisper_timestamped
