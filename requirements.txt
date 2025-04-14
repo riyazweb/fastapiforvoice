@@ -1,4 +1,5 @@
-fastapi 
-gunicorn 
-speechrecognition
+fastapi
+uvicorn
+gunicorn
+SpeechRecognition
 python-multipart
